@@ -1,0 +1,10 @@
+# Dossiers de données Docker (Volumes locaux)
+mysql_data/
+glpi_data/
+
+# Fichiers de configuration sensible
+.env
+
+# Logs et fichiers temporaires
+*.log
+.DS_Store
